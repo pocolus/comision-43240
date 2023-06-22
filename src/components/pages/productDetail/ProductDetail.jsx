@@ -28,3 +28,6 @@ const ProductDetail = ({ productSelected, addToCart, cantidad }) => {
 };
 
 export default ProductDetail;
+
+
+
